@@ -2,8 +2,25 @@
 	min-width: 30%;
 }
 
+.card-person {
+	min-width: 80% !important;
+}
+
 .text-darkRed {
 	color: DarkRed;
+}
+
+.paper-theme {
+	background-color: FloralWhite;
+	box-shadow: 2px 2px 3px #666666;
+}
+
+.prefer-indent {
+	text-indent: 3rem;
+}
+
+.prefer-inline {
+	display: inline;
 }
 
 .material-icons {
